@@ -1,0 +1,8 @@
+{
+  "itemGroup.resourcebeans": "Example Mod Tab",
+  "block.resourcebeans.example_block": "Example Block",
+  "item.resourcebeans.example_item": "Example Item",
+  "block.resourcebeans.iron_log": "Iron Log",
+
+  "creativetab.resourcebeans.resourcebeans_blocks": "Resource Beans"
+}

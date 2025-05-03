@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "resourcebeans:block/iron_log_top",
+    "side": "resourcebeans:block/iron_log"
+  }
+}
